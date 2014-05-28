@@ -3,7 +3,7 @@
 
 name:                bibmorph
 version:             0.0.1
-synopsis:            Bibmorph is a bibliographic converter.
+synopsis:            Bibmorph is a converter between metadata entities and bibliographic records.
 -- description:         
 homepage:            https://github.com/jermnelson/bibmorph
 license:             GPL-2

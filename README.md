@@ -7,8 +7,8 @@ focused on a Minimum Viable Product where MARC21 records are
 converted to [BIBFRAME](http://bibframe.org/) RDF/XML documents using 
 Haskell's rich Category theory underpinnings.
 
-This project is Haskell-based and is inspired by the easy-of-use of the
-[Pandoc](http://johnmacfarlane.net/pandoc/) in converting files from 
+This project is Haskell-based and is inspired by the utility and easy-of-use 
+of [Pandoc](http://johnmacfarlane.net/pandoc/) in converting files from 
 between markup languages and final document formats like PDF and 
 Microsoft Word. 
 
